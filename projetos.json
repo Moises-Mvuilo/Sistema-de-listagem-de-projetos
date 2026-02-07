@@ -1,20 +1,24 @@
-[{
-    "id": 1,
-    "nome": "Website de Loja Online",
-    "Descricao": "Desenvolvimento de um Website para vendas de produtos",
-    "Status": "Ativo"
-},
+[
+    
+ {
+ "id": 1,
+ "nome": "Website de Loja Online",
+ "descricao": "Desenvolvimento de um website para vendas de produtos.",
+ "status": "Ativo"
+ },
 
-{
-    "id": 2,
-    "nome": "App de Gestão de Tarefas",
-    "Descricao": "Aplicação para organizar tarefas diárias",
-    "Status": "Concluir"
-},
+ {
+ "id": 2,
+ "nome": "App de Gestão de Tarefas",
+ "descricao": "Aplicação para organizar tarefas diárias.",
+ "status": "Concluído"
+ },
 
-{
-    "id": 3,
-    "nome": "Plataforma de cursos online",
-    "Descricao": "Criação de plataforma para oferecer cursos digitais",
-    "Status": "Ativo"
-}]
+ {
+ "id": 3,
+ "nome": "Plataforma de Cursos Online",
+ "descricao": "Criação de uma plataforma para oferecer cursos digitais.",
+ "status": "Ativo"
+ }
+
+]
