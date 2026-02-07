@@ -1,0 +1,20 @@
+[{
+    "id": 1,
+    "nome": "Website de Loja Online",
+    "Descricao": "Desenvolvimento de um Website para vendas de produtos",
+    "Status": "Ativo"
+},
+
+{
+    "id": 2,
+    "nome": "App de Gestão de Tarefas",
+    "Descricao": "Aplicação para organizar tarefas diárias",
+    "Status": "Concluir"
+},
+
+{
+    "id": 3,
+    "nome": "Plataforma de cursos online",
+    "Descricao": "Criação de plataforma para oferecer cursos digitais",
+    "Status": "Ativo"
+}]
